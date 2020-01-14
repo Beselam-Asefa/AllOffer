@@ -1,13 +1,15 @@
-  # alloffer    - web-App                                                    
+  # alloffer    - web-App   (Rest API)                                                 
  
  ------------------------------------------------------
 
  ## Discription 
  -------------------------------------------------------
-- this is a web media sharing app   
-- using this app  anonymous user can see the post with out making all deleting a post
-  registered users has there own profile, so they can login and see others post plus they can see there profile info and they 
-  can also delete thier post 
+- this is a web media sharing app 
+- this app create the platform for shop owners to show what they are offering for customers, and any user can also share a pic of the discount items 
+  with other users. 
+- using this app  anonymous user can see the post with out creating a post, but 
+  registered users has there own profile, so they can login and see others post plus they can see there profile page and they 
+  can also delete and edit thier post 
 - the app is responsive and done for both mobile and desktop users 
 
 ---
@@ -27,7 +29,7 @@
  - express js 
  - multer
  - vanilla javascript and nodejs  for programming lang 
- - JWT 
+ - JWT (Rest API)
  - only html and css 
  
 
