@@ -12,6 +12,8 @@
   can also delete and edit thier post 
 - the app is responsive and done for both mobile and desktop users 
 
+- ### the app is done intentionally using pure html and css, no bootsrap or other framework  is used. 
+
 ---
 
  ## Features  and technologies   
@@ -31,7 +33,13 @@
  - vanilla javascript and nodejs  for programming lang 
  - JWT (Rest API)
  - only html and css 
- 
+
+-----------------------------------------------------------
+
+ ## Database   
+    
+ -----------------------------------------------------
+ mysql (mariadb)
 
 
 ---------------------------------------------------------
